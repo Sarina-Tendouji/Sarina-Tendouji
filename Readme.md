@@ -12,8 +12,8 @@
 <div align="center">
 <h2 align="center">🌸 𝕻𝖗𝖔𝖋𝖎𝖑𝖊 𝕾𝖙𝖆𝖙𝖘 🌸</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarina-Tendouji&theme=github_dark" alt="Profile Details"  width="100%" align="center" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarina-Tendouji&theme=github_dark" alt="Languages"  width="49.75%" align="center"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarina-Tendouji&theme=github_dark" alt="Stats"  width="49.75%" align="center"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarina-Tendouji&theme=github_dark" alt="Languages"  width="49.65%" align="center"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarina-Tendouji&theme=github_dark" alt="Stats"  width="49.65%" align="center"/>
 </div>
 
 
