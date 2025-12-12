@@ -11,16 +11,16 @@
 
 <div align="center">
 <h2 align="center">𝑷𝒓𝒐𝒇𝒊𝒍𝒆 𝑺𝒕𝒂𝒕𝒔! 📊</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarina-Tendouji&theme=github_dark" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarina-Tendouji&theme=github_dark" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarina-Tendouji&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarina-Tendouji&theme=github_dark" alt="Profile Details"  width="100%" align="center" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarina-Tendouji&theme=github_dark" alt="Languages"  width="49.75%" align="center"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarina-Tendouji&theme=github_dark" alt="Stats"  width="49.75%" align="center"/>
 </div>
 
 
 <div>
 <h2 align="center">𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆! ✨</h2>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Sarina-Tendouji/Sarina-Tendouji/main/assets/552f6a63-be87-4927-acdd-0a6c5706466c.gif">
+<img src="https://raw.githubusercontent.com/Sarina-Tendouji/Sarina-Tendouji/main/assets/552f6a63-be87-4927-acdd-0a6c5706466c.gif" width="100%" align="center"/>
 </div>
 
 
