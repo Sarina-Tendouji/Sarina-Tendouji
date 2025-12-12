@@ -1,0 +1,18 @@
+<svg fill="none" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: "Courier New", monospace; fill: #C9D1D9; font-size: 14px; font-weight: 600; }
+    .pink { fill: #f08eb0; } /* Ruby's Image Color */
+  </style>
+  
+  <text x="0" y="30" class="text">
+    🌸 I'm <tspan class="pink">Ruby</tspan>, still chasing the idol dream I loved even as Sarina.
+  </text>
+  
+  <text x="0" y="60" class="text">
+    🎀 Cute, energetic, and stubborn enough to keep going.
+  </text>
+  
+  <text x="0" y="90" class="text">
+    💖 I want to brighten the world the way <tspan class="pink">Ai</tspan> once brightened mine…
+  </text>
+</svg>
