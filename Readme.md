@@ -4,11 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello+!;I'm+Ruby%2C+and+I+want+to+become+the+greatest+Idol+%E2%9C%A9" width="52%" />
 <br><br>
 <pre>
-    🌸 I'm Ruby, still chasing the idol dream I loved even as Sarina.
-    🎀 Cute, energetic, and stubborn enough to keep going.
-    💖 I want to brighten the world the way Ai once brightened mine…
+    <img src="https://raw.githubusercontent.com/Sarina-Tendouji/Sarina-Tendouji/main/assets/bio.svg" width="85%" />
 </pre>
-<br><br>
 <img src="https://raw.githubusercontent.com/Sarina-Tendouji/Sarina-Tendouji/main/assets/ruby-hoshino-crying-hoshino.gif" height="100" />
 </div>
 
