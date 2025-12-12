@@ -1,0 +1,14 @@
+<!-- file: rounded-image.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <clipPath id="rounded">
+      <!-- rx, ry control radius; adjust to taste -->
+      <rect x="0" y="0" width="100%" height="100%" rx="20" ry="20"/>
+    </clipPath>
+  </defs>
+
+  <!-- Replace the href with your image URL or a relative path in the repo -->
+  <image clip-path="url(#rounded)"
+         href="https://raw.githubusercontent.com/Sarina-Tendouji/Sarina-Tendouji/main/assets/ruby-hoshino-oshi-no-ko (4).gif"
+         width="100%" height="100%" preserveAspectRatio="xMidYMid slice"/>
+</svg>
