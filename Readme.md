@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/Sarina-Tendouji/Sarina-Tendouji/main/assets/552f6a63-be87-4927-acdd-0a6c5706466c.gif" width="100%" align="center"/>
 </div>
 
-
+<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Sarina-Tendouji&&style=flat-square" align="center" />
 </div>  
